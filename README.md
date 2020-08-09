@@ -20,7 +20,7 @@
 
 O proffy é uma plataforma onde professores podem anunciar seu trabalho e alunos com sede de aprender podem se conectar a esses professores. Foi uma aplicação desenvolvida em um evento chamado Next Level Week promovido pela Rocketseat e que o intuito deles é te levar para o próximo nível.
 
-## Como posso usar sua aplicação 🔧🆙 ?
+## Vamos subir essa aplicação?
 
 ### Requisitos:
 
@@ -29,9 +29,7 @@ O proffy é uma plataforma onde professores podem anunciar seu trabalho e alunos
 
 &nbsp;
 
-## Rodando a aplicação
-
-No seu terminal faça um clone do projeto
+Abra seu terminal e clone o projeto
 
 ```bash
 git clone https://github.com/brunoJSX/proffy
